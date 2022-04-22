@@ -1,4 +1,4 @@
-# Dr-Dhaka [ Find Your Doctor ]
+# Dr. Dhaka [ Find Your Doctor ]
 A website that helps people to find their preferred doctor and make an appointment at a suitable time.
 
 ## Demo
